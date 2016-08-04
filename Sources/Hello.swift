@@ -1,4 +1,4 @@
-struct Hello {
-
-    var text = "Hello, World!"
+public struct Hello {
+    
+    public var text = "Hello, World!"
 }
